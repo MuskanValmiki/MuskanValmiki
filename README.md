@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h5>
-**MuskanValmiki/MuskanValmiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h6>
+**✨ MuskanValmiki/MuskanValmiki** is a ✨ 
 
 Here are some ideas to get you started:
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...<h5>
+- ⚡ Fun fact: ...</h6>
 <h1>Muskan-Coder</h1>
 <p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=MuskanValmikee&label=Profile%20views&color=0e75b6&style=flat" alt="Muskan Valmikee" /> </p>
 <p align="center">
