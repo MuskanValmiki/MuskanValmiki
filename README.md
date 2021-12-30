@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h6>
-**✨ MuskanValmiki/MuskanValmiki** is a ✨ 
+✨ **MuskanValmiki/MuskanValmiki**  ✨ 
 
 Here are some ideas to get you started:
 
