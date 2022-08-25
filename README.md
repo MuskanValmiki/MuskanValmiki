@@ -11,7 +11,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-✔ Callme: Muskan Valmikee or TeamWorker 😊 <br>
+✔ Call me: Muskan Valmikee or TeamWorker 😊 <br>
 
 ✔ 🌱 I’m currently learning everything 🤣<br>
 ✔ 👨‍💻 All of my projects are available at https://github.com/MuskanValmiki/<br>
