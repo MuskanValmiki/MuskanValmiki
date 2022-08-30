@@ -29,13 +29,6 @@
   <tr>
     <td align="center" width="96">
       <a>
-      
-      
-      
-      
-      
-      
-      
         <img src="python.png" width="50"/>
       </a>
       <br>Python
@@ -67,11 +60,15 @@
   </tr>
 </table>
 <br>
-<a h
-ref="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Let's Connect ....
 <p align="center">
      <a href="https://www.linkedin.com/in/muskan-valmikee-0ba3a3213/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" width="60px" alt="LinkedIn"/></a>
      <a href="https://twitter.com/MValmikee"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="60px" alt="Twitter"></a>
 </p>
+
+
+
+
+
