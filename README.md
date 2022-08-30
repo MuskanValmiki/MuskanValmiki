@@ -29,6 +29,13 @@
   <tr>
     <td align="center" width="96">
       <a>
+      
+      
+      
+      
+      
+      
+      
         <img src="python.png" width="50"/>
       </a>
       <br>Python
