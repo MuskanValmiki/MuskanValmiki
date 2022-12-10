@@ -49,7 +49,7 @@
     </td>
     <td>
       <a>
-        <img src="" width="80"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="80"/>
       </a>
       <br>Css
     </td>
