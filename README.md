@@ -59,6 +59,11 @@
       </a>
       <br>MySQL
     </td>
+    <td>
+      <a>
+        <img src="https://miro.medium.com/max/720/0*CMejfXR4cabOjqDy.webp" width="40"/>
+      </a>
+    </td>
   </tr>
 </table>
 <br>
