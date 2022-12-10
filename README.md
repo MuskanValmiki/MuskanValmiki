@@ -31,7 +31,7 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="python.png" width="60"/>
+        <img src="python.png" width="80"/>
       </a>
       <br>Python
     </td>
@@ -46,6 +46,12 @@
         <img src="html.jpg" width="50"/>
       </a>
       <br>HTML
+    </td>
+    <td>
+      <a>
+        <img src="" width="80"/>
+      </a>
+      <br>Css
     </td>
     <td align="center" width="96">
         <a>
@@ -67,7 +73,7 @@
     </td>
     <td>
       <a>
-        <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" width="60"/>
+        <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" width="80"/>
       </a>
       <br>ReactJs
     </td>
