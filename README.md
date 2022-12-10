@@ -61,8 +61,9 @@
     </td>
     <td>
       <a>
-        <img src="https://miro.medium.com/max/720/0*CMejfXR4cabOjqDy.webp" width="40"/>
+        <img src="https://miro.medium.com/max/720/0*CMejfXR4cabOjqDy.webp" width="60"/>
       </a>
+      <br>Django
     </td>
   </tr>
 </table>
