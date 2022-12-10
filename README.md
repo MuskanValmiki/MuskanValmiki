@@ -31,7 +31,7 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="python.png" width="50"/>
+        <img src="python.png" width="60"/>
       </a>
       <br>Python
     </td>
@@ -55,7 +55,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"/>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="60"/>
       </a>
       <br>MySQL
     </td>
@@ -64,6 +64,12 @@
         <img src="https://miro.medium.com/max/720/0*CMejfXR4cabOjqDy.webp" width="60"/>
       </a>
       <br>Django
+    </td>
+    <td>
+      <a>
+        <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" width="60"/>
+      </a>
+      <br>ReactJs
     </td>
   </tr>
 </table>
